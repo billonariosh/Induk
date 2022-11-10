@@ -1,3 +1,6 @@
+https://colab.research.google.com/drive/18gWh5p6oOBGJFRPZaWJthhxVAkLLpi7M?hl=ko#scrollTo=hkGJA-4k9x7O
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
