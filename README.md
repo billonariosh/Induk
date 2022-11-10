@@ -1,5 +1,5 @@
 # Induk
-
-* 중간고사
-  - Colaboratory 주소 : https://colab.research.google.com/drive/18gWh5p6oOBGJFRPZaWJthhxVAkLLpi7M?hl=ko#scrollTo=hkGJA-4k9x7O
-  - code.txt 파일에 코드 추가
+학교: 인덕대학교 
+학과 / 반: 정보통신학과 / 전공심화반
+이름: 조승희
+학번: 202216705
